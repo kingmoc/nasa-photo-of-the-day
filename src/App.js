@@ -7,6 +7,8 @@ function App() {
       <p>
         Read through the instructions in the README.md file to build your NASA
         app! Have fun 🚀!
+
+        <h1> Joe </h1>
       </p>
     </div>
   );
