@@ -9,6 +9,7 @@ function App() {
         app! Have fun 🚀!
 
         <h1> Joe </h1>
+        <h1> Joe </h1>
       </p>
     </div>
   );
